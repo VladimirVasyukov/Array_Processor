@@ -1,7 +1,5 @@
 package com.epam.java_basic.array_processor;
 
-import java.util.Arrays;
-
 /**
  *  Useful methods for array processing
  */
