@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.epam</groupId>
-    <artifactId>java_basic_part_1</artifactId>
+    <artifactId>java_basic_array_processor</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>01_Java_Basic</name>
+    <name>04 Java Basic - Array Processor</name>
     <url>http://maven.apache.org</url>
 
     <properties>
